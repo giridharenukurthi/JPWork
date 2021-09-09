@@ -1,0 +1,58 @@
+Pros
+----
+Pavan is having around 6+ years of professional experience on DWH and DQ applications using Informatica tools. He has been working on IDQ from past couple of years.
+
+He has good exposure to both Informatica PowerCenter as well as IDQ.
+Good with basic transformations and could able to explain how to use normalizer transformation.
+Could able answer scenario based questions - populate first three columns of file to table 1, last 3 columns to table 3 and remaining data into table 2. Also, he could able to answer another scenario based question on transaction control transformation to create month wise files with transactions related to that month.
+Good with IDQ and explained different components of IDQ.
+Good with SQL. He could able to write query to list month wise all customers whose total transaction amount is greater than one lakh.
+Good with Unix commands. He could able to answer how to select distinct department names from a csv file where 5th column is department name.
+
+Overall 8 years experience and 6+ years experience in Informatica with various version 9X,10X and Cloud
+
+Very good communication skills
+
+Strong knowledge in Informatica server architecture (Non Cloud and Cloud)
+
+Experience in Informatica Cloud in the latest project with indepth knowledge
+
+Strong knowledge in most commonly used transformations like Lookup, Expression & Joiner, router, Rank & Update strategy transformations
+
+Good knowledge and experience in Oracle SQL and PL/SQL and also has realtime experience in creating simple or complex procedures
+
+Knowledge in many of the rarely used transformations like TC,SP and Normalizer
+
+Very familiar with lookup flavours and good knowledge in Dynamic, unconnected & persistant lookup options and scenarios where these can be suitable
+
+Proficient knowledge in python scripting
+
+Answered all the scenario based questions in Informatica
+
+Good listening, problem solving & analytical skills
+
+Concerns
+--------
+Preffered location is Bangalore
+
+Little confused about Update strategy/Treat Source Rows as and Target level options (Insert Else Update & Update Else Insert)
+
+Pavan is not working on PowerCenter from past 2 years. So, he couldn't explain the transformation properties properly.
+
+Couldn't explain lookup caches and how they work.
+Very less exposure on PowerCenter architecture
+Less exposure to Admin activities.
+
+
+
+
+
+Further Review
+--------------
+Due to the time limitation, not able to check below.
+
+knowledge in parameters,variables, mapplets & reusable transformations
+
+Unix scripting/commands
+
+
